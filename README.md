@@ -1,1 +1,1 @@
-"# Projeto Pipeline de Dados, analise de dados, historico de temperatura do estado do Paran " 
+"# Projeto Pipeline de Dados, analise de dados, historico de temperatura do estado do ParanaÂ " 
